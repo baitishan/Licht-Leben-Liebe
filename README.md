@@ -1,11 +1,12 @@
 # Licht-Leben-Liebe
+light-life-love
 
-# Test
+is a project to attach a LDR sensor to an Arduino Uno controller to light up LED´s in the case of low light contitions. 
+# Hardware Required
 
-asdf 
+Arduino Uno, LDR (Light Dependend Resistor), 2x LED, 2x 220 and 1x 10k ohm resistors,  Wires,  Breadboard
 
-asdf 
+# Schematic diagram
 
-- 123
-- 123
-![LLL-Steckplatine](LLL-Steckplatine.jpg "LLL-Steckplatine")
+![photoresistor-Steckplatine]( photoresistor_Steckplatine.jpg "photoresistor-Steckplatine")
+
