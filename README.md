@@ -8,5 +8,4 @@ Arduino Uno, LDR (Light Dependend Resistor), 2x LED, 2x 220 and 1x 10k ohm resis
 
 # Schematic diagram
 
-![photoresistor-Steckplatine]( photoresistor_Steckplatine.jpg "photoresistor-Steckplatine")
-<img src="photoresistor_Steckplatine.jpg" alt="drawing" width="200"/>
+<img src="photoresistor_Steckplatine.jpg" alt="drawing" width="400"/>
